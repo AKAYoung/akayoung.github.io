@@ -1,14 +1,31 @@
 ---
-layout: archive
-title: "Portfolio"
+title: "Projects"
 permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
+# Projects
 
+## SynerBETA-NILM
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+SynerBETA-NILM is a two-stage framework for non-intrusive load monitoring. It combines synthetic appliance-level load generation with parameter-efficient cross-domain load disaggregation.
 
+**Keywords:** NILM, Smart Grid, Energy Internet, Time-Series Modeling, Diffusion Model, Transformer, PEFT
+
+## SynerDiff
+
+SynerDiff is a data augmentation model designed for appliance-level power signals. It combines autoregressive Transformer modeling with diffusion-based generation to capture both steady-state trends and transient load variations.
+
+**Keywords:** Time-Series Generation, Diffusion Model, Transformer, NILM, Data Augmentation
+
+## BETA-NILM
+
+BETA-NILM is a Transformer-based load disaggregation model that integrates adapter-based parameter-efficient tuning and efficient attention for cross-domain NILM.
+
+**Keywords:** NILM, Adapter, PEFT, Efficient Attention, Domain Adaptation
+
+## Multi-Scenario Power Load Perception System
+
+This project focuses on power load perception in heterogeneous scenarios such as convenience stores, filling stations, and gyms. I participated in data governance, sample library construction, feature design, and model training.
+
+**Keywords:** Power Data Processing, Load Perception, Data Governance, Energy Management
