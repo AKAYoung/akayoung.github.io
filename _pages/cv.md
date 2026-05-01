@@ -36,3 +36,8 @@ Major: Software Engineering
 - **SynerBETA-NILM:** Synthetic load data generation and parameter-efficient cross-domain NILM.
 - **Multi-Scenario Power Load Perception System:** Data governance, sample library construction, feature design, and model training for power load perception.
 - **Power Load Intelligent Perception and Energy-Saving Analysis System:** Power data processing, model training, and energy efficiency analysis.
+
+## Publications
+
+- **SynerBETA-NILM: A Two-Stage Framework for Synthetic Load Data Generation and Parameter-Efficient Cross-Domain Non-Intrusive Load Monitoring.**  
+  Manuscript under submission. Second author.
