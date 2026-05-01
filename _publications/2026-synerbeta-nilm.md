@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2026-synerbeta-nilm
 excerpt: "A two-stage NILM framework that combines synthetic appliance-level load generation with parameter-efficient cross-domain load disaggregation."
 date: 2026-05-02
-venue: "Manuscript under preparation / under submission"
+venue: "Manuscript submission"
 paperurl:
 citation: "Peisheng Yang, et al. SynerBETA-NILM: A Two-Stage Framework for Synthetic Load Data Generation and Parameter-Efficient Cross-Domain Non-Intrusive Load Monitoring. Manuscript under preparation / under submission."
 ---
