@@ -14,4 +14,4 @@ SynerBETA-NILM is a two-stage framework for non-intrusive load monitoring. It co
 
 The framework consists of two main components. **SynerDiff** is designed to generate high-fidelity appliance-level load samples by integrating autoregressive Transformer modeling and diffusion-based generation. **BETA-NILM** is a Transformer-based load disaggregation model that incorporates adapter-based parameter-efficient tuning and efficient attention to improve cross-domain adaptation efficiency.
 
-This manuscript is currently under preparation / under submission.
+This manuscript is currently under submission.
