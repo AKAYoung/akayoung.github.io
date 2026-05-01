@@ -1,64 +1,38 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+# Curriculum Vitae
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**M.S. in Software Engineering**  
+Henan University, 2024.09–2027.06  
+Research Interests: Energy Internet, Smart Grid, Non-Intrusive Load Monitoring
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**B.S. in Software Engineering**  
+Henan University, 2019.09–2023.06  
+Major: Software Engineering
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research Interests
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Non-Intrusive Load Monitoring
+- Smart Grid and Energy Internet
+- Time-Series Deep Learning
+- Transformer and Diffusion Models
+- Parameter-Efficient Fine-Tuning
+
+## Skills
+
+- **Programming:** Python, SQL, Markdown, LaTeX
+- **Deep Learning:** PyTorch, CNN, RNN/LSTM/GRU, Transformer, Diffusion Models
+- **Data Analysis:** Pandas, NumPy, Matplotlib
+- **Research Tools:** Git, GitHub, Overleaf, Anaconda, PyCharm
+
+## Projects
+
+- **SynerBETA-NILM:** Synthetic load data generation and parameter-efficient cross-domain NILM.
+- **Multi-Scenario Power Load Perception System:** Data governance, sample library construction, feature design, and model training for power load perception.
+- **Power Load Intelligent Perception and Energy-Saving Analysis System:** Power data processing, model training, and energy efficiency analysis.
